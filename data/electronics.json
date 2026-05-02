@@ -1,0 +1,7 @@
+{
+    "categoryName": "Електроніка",
+    "items": [
+        {"id": 1, "name": "Смартфон", "shortname": "phone", "description": "Опис товару", "price": "500$"},
+        {"id": 2, "name": "Ноутбук", "shortname": "laptop", "description": "Опис товару", "price": "1000$"}
+    ]
+}
