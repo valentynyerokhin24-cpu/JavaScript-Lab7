@@ -1,0 +1,9 @@
+{
+    "categoryName": "Периферія",
+    "items": [
+        {"name": "Миша Razer", "description": "Ігрова миша.", "price": "70$"},
+        {"name": "Клавіатура Keychron", "description": "Механічна.", "price": "120$"},
+        {"name": "Монітор Dell", "description": "27 дюймів, 4K.", "price": "400$"},
+        {"name": "Навушники Sony", "description": "Шумозаглушення.", "price": "300$"}
+    ]
+}
