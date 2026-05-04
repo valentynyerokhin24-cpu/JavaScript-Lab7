@@ -1,0 +1,9 @@
+{
+    "categoryName": "Смартфони",
+    "items": [
+        {"id": 1, "name": "Pixel 10", "shortname": "pix10", "description": "Опис...", "price": "900$"},
+        {"id": 2, "name": "iPhone 17", "shortname": "iph17", "description": "Опис...", "price": "1100$"},
+        {"id": 3, "name": "Galaxy S26", "shortname": "gal26", "description": "Опис...", "price": "950$"},
+        {"id": 4, "name": "Xiaomi 15", "shortname": "xia15", "description": "Опис...", "price": "400$"}
+    ]
+}
