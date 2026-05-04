@@ -1,5 +1,5 @@
 [
-    {"id": 1, "name": "Електроніка", "shortname": "electronics", "notes": "Lorem ipsum"},
-    {"id": 2, "name": "Одяг", "shortname": "clothing", "notes": ""},
-    {"id": 3, "name": "Книги", "shortname": "books", "notes": "Популярні видання"}
+    {"id": 1, "name": "Смартфони", "shortname": "phones", "notes": ""},
+    {"id": 2, "name": "Ноутбуки", "shortname": "laptops", "notes": "Lorem ipsum"},
+    {"id": 3, "name": "Периферія", "shortname": "peripherals", "notes": ""}
 ]
