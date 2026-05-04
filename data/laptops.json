@@ -1,0 +1,10 @@
+{
+    "categoryName": "Ноутбуки",
+    "items": [
+        {"name": "MacBook Air", "description": "Легкий та потужний.", "price": "1200$"},
+        {"name": "Dell XPS", "description": "Чудовий дисплей.", "price": "1300$"},
+        {"name": "Asus ZenBook", "description": "Стильний дизайн.", "price": "1000$"},
+        {"name": "Lenovo Legion", "description": "Ігровий монстр.", "price": "1500$"},
+        {"name": "HP Pavilion", "description": "Універсальний вибір.", "price": "800$"}
+    ]
+}
