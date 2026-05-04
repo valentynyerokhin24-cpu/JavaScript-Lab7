@@ -1,5 +1,6 @@
 [
-    {"id": 1, "name": "Смартфони", "shortname": "phones", "notes": ""},
-    {"id": 2, "name": "Ноутбуки", "shortname": "laptops", "notes": "Lorem ipsum"},
-    {"id": 3, "name": "Периферія", "shortname": "peripherals", "notes": ""}
+    {"id": 1, "name": "Смартфони", "shortname": "phones"},
+    {"id": 2, "name": "Ноутбуки", "shortname": "laptops"},
+    {"id": 3, "name": "Аксесуари", "shortname": "accessories"},
+    {"id": 4, "name": "Периферія", "shortname": "peripherals"}
 ]
