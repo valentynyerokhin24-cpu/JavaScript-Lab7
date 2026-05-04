@@ -1,0 +1,9 @@
+{
+    "categoryName": "Аксесуари",
+    "items": [
+        {"name": "Чохол силіконовий", "description": "Захист для телефону.", "price": "15$"},
+        {"name": "Захисне скло", "description": "Міцне скло.", "price": "10$"},
+        {"name": "Power Bank", "description": "20000 mAh.", "price": "45$"},
+        {"name": "Кабель USB-C", "description": "Швидка зарядка.", "price": "12$"}
+    ]
+}
